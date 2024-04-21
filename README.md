@@ -43,10 +43,10 @@ The findings of the benchmarking experiments provide valuable insights into the 
 
 The project utilizes visualizations to present the benchmarking results in a clear and informative manner. Key visualizations include:
 
-1. **Thread vs Time Taken**: A line plot illustrating the relationship between the number of threads and the execution time of matrix multiplication operations. This visualization highlights how multi-threading affects computation speed and efficiency.
+1. **Thread vs Time Taken**: A line plot illustrating the relationship between the number of threads and the execution time of matrix multiplication operations. This visualization highlights how multi-threading affects computation speed and efficiency. <br>
 ![Thread vs Time Taken](/imgs2/img1.png)
 
-3. **CPU Usage vs Threads**: A line plot depicting CPU utilization over the course of matrix multiplication experiments. This visualization provides insights into how effectively CPU cores are utilized during multi-threaded computation tasks.
+3. **CPU Usage vs Threads**: A line plot depicting CPU utilization over the course of matrix multiplication experiments. This visualization provides insights into how effectively CPU cores are utilized during multi-threaded computation tasks. <br>
 ![CPU Usage vs Threads](imgs2/img2.png)
 
 5. **Efficiency and speedup**: A line plot showing the relationship between the number of threads and the efficiency and speedup over the course of matrix multiplication experiments. <br>
