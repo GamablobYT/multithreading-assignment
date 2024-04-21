@@ -6,6 +6,8 @@ The "Matrix Multiplication Performance Benchmark" project aims to thoroughly ass
 
 This project explores how parallelization techniques, specifically multi-threading, can improve the performance of matrix multiplication algorithms. By leveraging Python libraries such as NumPy, threading, and Pandas, the project conducts extensive benchmarking experiments to analyze the effects of multi-threading on computation time and CPU utilization. The findings of this investigation are crucial for understanding the scalability and efficiency of matrix multiplication algorithms in multi-core computing environments.
 
+On my PC, this program utilizes 16 threads on an Intel i7 11700KF
+
 ## Functionality
 
 The project encompasses several key functionalities, each serving a specific purpose in the benchmarking process:
